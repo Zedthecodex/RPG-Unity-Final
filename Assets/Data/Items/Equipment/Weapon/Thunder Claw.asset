@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 590ef18be3394f74b880d82fac385463, type: 3}
+  m_Name: Thunder Claw
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Thunder Claw
+  itemIcon: {fileID: -1470902421, guid: be55291aae08d434db3da3b59db3ab4a, type: 3}
+  itemId: 71e394925919f7948aa58075e61206e3
+  dropChance: 15.6
+  equipmentType: 0
+  itemCooldown: 0
+  itemEffects:
+  - {fileID: 11400000, guid: 96d164f1d9cffae45ba8731e7346df8c, type: 2}
+  strength: 0
+  agility: 15
+  intelligence: 10
+  vitality: 0
+  damage: 20
+  critChance: 20
+  critPower: 0
+  health: 0
+  armor: 0
+  evasion: 0
+  magicResistance: 0
+  fireDamage: 0
+  iceDamage: 0
+  lightingDamage: 15
+  craftingMaterials: []

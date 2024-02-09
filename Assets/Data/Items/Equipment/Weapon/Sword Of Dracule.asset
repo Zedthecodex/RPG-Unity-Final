@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 590ef18be3394f74b880d82fac385463, type: 3}
+  m_Name: Sword Of Dracule
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Sword of Dracule
+  itemIcon: {fileID: 0}
+  itemId: c6654f28656b5f944adad1a66cf24237
+  dropChance: 30
+  equipmentType: 0
+  itemCooldown: 0
+  itemEffects:
+  - {fileID: 11400000, guid: 6c856b30363c5aa4a9b61061df07fd57, type: 2}
+  strength: 0
+  agility: 10
+  intelligence: 0
+  vitality: 5
+  damage: 25
+  critChance: 10
+  critPower: 0
+  health: 0
+  armor: 0
+  evasion: 0
+  magicResistance: 0
+  fireDamage: 5
+  iceDamage: 0
+  lightingDamage: 0
+  craftingMaterials:
+  - data: {fileID: 11400000, guid: d4606b3a097405a48b469cfa439b193b, type: 2}
+    stackSize: 3
+  - data: {fileID: 11400000, guid: a180bc7902d002b4e930905c4affb542, type: 2}
+    stackSize: 2
